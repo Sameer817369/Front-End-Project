@@ -1,1 +1,1 @@
-This resporitory contains froent projects i bulid 
+This resporitory contains front-end projects 
